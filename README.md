@@ -16,7 +16,7 @@ de dados, fornecendo explicações teóricas, implementações práticas, bem co
 
 1. **Introdução**
 2. **Estruturas de Dados Lineares**
-    - Arrays
+    - [Arrays](#https://github.com/Ivi-SCD/data-structures/blob/main/linear/Arrays.md)
     - Listas Encadeadas
     - Pilhas
     - Filas
