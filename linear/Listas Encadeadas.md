@@ -12,7 +12,7 @@ Algumas das características fundamentais das listas encadeadas são:
 * Inserção e Remoção eficiente
 * Acesso Sequencial (Precisa percorrer a lista do inicio ao fim para obter um elemento específico)
 * Tamanho Variável
-* Alocação Não Contígua (Ao contrário dos arrays, as listas encadeadas não exigem alocação contígua de memória para armazenar elementos,)
+* Alocação Não Contígua (Ao contrário dos arrays, as listas encadeadas não exigem alocação contígua de memória para armazenar elementos)
 
 
 ### Nó de uma Lista Encadeada:
