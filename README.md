@@ -18,7 +18,7 @@ de dados, fornecendo explicações teóricas, implementações práticas, bem co
 2. **Estruturas de Dados Lineares**
     - [Arrays](https://github.com/Ivi-SCD/data-structures/blob/main/linear/Arrays.md)
     - [Listas Encadeadas](https://github.com/Ivi-SCD/data-structures/blob/main/linear/Listas%20Encadeadas.md)
-    - Pilhas
+    - [Pilhas](https://github.com/Ivi-SCD/data-structures/blob/main/linear/Pilhas.md)
     - Filas
 3. **Estruturas de Dados Não-Lineares**
     - Árvores
