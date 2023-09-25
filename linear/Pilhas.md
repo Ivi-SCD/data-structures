@@ -15,11 +15,11 @@ Algumas das características fundamentais das listas encadeadas são:
 
 Uma pilha suporta várias operações básicas, segue as principais:
 
-1. **Push:** Adicionar um elemento ao topo da pilha.
-2. **Pop:** Remover o elemento do topo da pilha.
-3. **Top (ou Peek):** Obter o elemento no topo da pilha sem removê-lo.
+1. **push:** Adicionar um elemento ao topo da pilha.
+2. **pop:** Remover o elemento do topo da pilha.
+3. **top (ou Peek):** Obter o elemento no topo da pilha sem removê-lo.
 4. **isEmpty:** Verificar se a pilha está vazia.
-5. **Size:** Obter o número de elementos na pilha.
+5. **size:** Obter o número de elementos na pilha.
 
 ## Implementação de Pilhas em C
 

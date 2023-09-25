@@ -1,10 +1,10 @@
 ## Listas Encadeadas
 
-Uma lista encadeada é uma estrutura de dados que **consiste em uma coleção de elementos** chamados nós, onde cada nó contém dois campos principais: um campo de dados que armazena o valor do elemento e um campo de ponteiro que aponta para o próximo nó na lista. Essa estrutura permite a c**onstrução de listas de elementos de maneira dinâmica**, ou seja, você pode adicionar e remover elementos facilmente.
+Uma lista encadeada é uma estrutura de dados que **consiste em uma coleção de elementos** chamados nós, onde cada nó contém dois campos principais: um campo de dados que armazena o valor do elemento e um campo de ponteiro que aponta para o próximo nó na lista. Essa estrutura permite a **construção de listas de elementos de maneira dinâmica**, ou seja, você pode adicionar e remover elementos facilmente.
 
 #
 
-Algumas das características fundamentais das listas encadeadas são:
+Algumas das características fundamentais das Listas Encadeadas são:
 
 * Estruturas Dinâmicas (Crescimento ou encolhimento conforme o necessário)
 * Elementos - Nós (Elementos individuais são chamados de nós)
